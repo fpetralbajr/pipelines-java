@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/petralfaf/BookWebAPI/_apis/build/status/fpetralbajr.pipelines-java?branchName=master)](https://dev.azure.com/petralfaf/BookWebAPI/_build/latest?definitionId=14&branchName=master)
 
 # Contributing
 
